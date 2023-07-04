@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background-color:mediumvioletred;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 2px solid black;
+    border-color: 3px solid black;
+    margin-left: 300px;
+}
+h1{
+    color:azure;
+    margin-left: 200px;
+}
